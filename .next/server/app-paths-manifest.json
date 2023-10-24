@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/anime/[animeId]/page": "app/anime/[animeId]/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/popular/page/[pg]/page": "app/popular/page/[pg]/page.js",
+  "/search/[query]/page": "app/search/[query]/page.js",
+  "/seasons/now/page/[pg]/page": "app/seasons/now/page/[pg]/page.js"
+}
