@@ -5,5 +5,7 @@
   "/page": "app/page.js",
   "/popular/page/[pg]/page": "app/popular/page/[pg]/page.js",
   "/search/[query]/page": "app/search/[query]/page.js",
-  "/seasons/now/page/[pg]/page": "app/seasons/now/page/[pg]/page.js"
+  "/seasons/now/page/[pg]/page": "app/seasons/now/page/[pg]/page.js",
+  "/users/dashboard/page": "app/users/dashboard/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
 }
